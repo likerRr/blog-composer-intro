@@ -1,5 +1,5 @@
 # Project X
-Files for tutorial at likerrr.ru
+Files for [composer tutorial](http://likerrr.ru/on-air/composer-ili-rukovodstvo-k-dejstviju) at [likerrr.ru](http://likerrr.ru)
 
 # Install
 
