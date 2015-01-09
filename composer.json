@@ -1,0 +1,22 @@
+{
+    "name": "alizurchik/composer-intro",
+    "description": "Intro to composer for likerrr.ru blog",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Lizurchik",
+            "email": "al.lizurchik@gmail.com"
+        }
+    ],
+    "require": {
+        "smarty/smarty": "~3.1",
+        "hybridauth/hybridauth": "~2.3",
+        "dannyvankooten/php-router": "~1.0@alpha",
+        "omnipay/omnipay": "~2.3"
+    },
+    "require-dev": {
+        "maximebf/debugbar": "~1.10"
+    },
+    "minimum-stability": "alpha",
+    "prefer-stable": true
+}
